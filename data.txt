@@ -1,0 +1,10 @@
+SimulationTime 500
+SimulationStepTime 50
+Conductivity 25
+Alfa 300
+Tot 1200
+InitialTemp 100
+Density 7800
+SpecificHeat 700
+Nodesnumber 16
+Elementsnumber 9
